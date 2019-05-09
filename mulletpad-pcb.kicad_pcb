@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 542)
+    (drawings 538)
     (tracks 593)
     (zones 0)
     (modules 56)
@@ -2869,14 +2869,10 @@
   (gr_arc (start 121.161129 58.19384) (end 121.161129 59.19384) (angle -90) (layer Dwgs.User) (width 0.15))
   (gr_arc (start 109.161129 58.19384) (end 108.161129 58.19384) (angle -90) (layer Dwgs.User) (width 0.15))
   (gr_line (start 109.161129 59.19384) (end 121.161129 59.19384) (layer Dwgs.User) (width 0.15))
-  (gr_line (start 68.574455 172.336067) (end 67.574455 172.336067) (layer Dwgs.User) (width 0.15))
   (gr_line (start 108.161129 46.19384) (end 108.161129 58.19384) (layer Dwgs.User) (width 0.15))
-  (gr_line (start 67.574455 172.068118) (end 68.574455 172.336067) (layer Dwgs.User) (width 0.15))
   (gr_arc (start 128.211129 58.19384) (end 127.211129 58.19384) (angle -90) (layer Dwgs.User) (width 0.15))
   (gr_arc (start 109.161129 46.19384) (end 109.161129 45.19384) (angle -90) (layer Dwgs.User) (width 0.15))
-  (gr_line (start 68.074455 172.836067) (end 69.074455 171.836067) (layer Dwgs.User) (width 0.15))
   (gr_arc (start 121.161129 46.19384) (end 122.161129 46.19384) (angle -90) (layer Dwgs.User) (width 0.15))
-  (gr_line (start 68.574455 172.336067) (end 67.574455 172.604016) (layer Dwgs.User) (width 0.15))
   (gr_arc (start 140.211129 46.19384) (end 141.211129 46.19384) (angle -90) (layer Dwgs.User) (width 0.15))
   (gr_arc (start 128.211129 46.19384) (end 128.211129 45.19384) (angle -90) (layer Dwgs.User) (width 0.15))
   (gr_line (start 122.161129 46.19384) (end 122.161129 58.19384) (layer Dwgs.User) (width 0.15))
