@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 538)
+    (drawings 540)
     (tracks 593)
     (zones 0)
     (modules 56)
@@ -2232,7 +2232,7 @@
   )
 
   (module "logos:TOPY 9MMEXPOSED" (layer B.Cu) (tedit 5C9C4082) (tstamp 5C9C5A1B)
-    (at 112.85995 127.715469)
+    (at 113.962303 126.980567)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -2674,7 +2674,7 @@
   )
 
   (module "logos:TOPY 9MMCOPPER" (layer B.Cu) (tedit 5CBD1F8F) (tstamp 5CD6E1B9)
-    (at 112.85995 127.715469)
+    (at 113.962303 126.980567)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -2692,6 +2692,12 @@
       (xy 0.004704 4.247762) (xy 0.489185 4.252783) (xy 0.489185 2.935376)) (layer B.Cu) (width 0.01))
   )
 
+  (gr_text coseyfannitutti (at 114.119782 131.914909) (layer B.Mask) (tstamp 5CD53721)
+    (effects (font (size 1.5 1) (thickness 0.075)) (justify mirror))
+  )
+  (gr_text coseyfannitutti (at 114.119782 131.914909) (layer B.Cu)
+    (effects (font (size 1.5 1) (thickness 0.075)) (justify mirror))
+  )
   (gr_line (start 185.659077 34.730524) (end 186.045077 34.807524) (layer Dwgs.User) (width 0.15))
   (gr_line (start 186.790477 35.050524) (end 187.146077 35.214524) (layer Dwgs.User) (width 0.15))
   (gr_line (start 188.412577 36.133524) (end 188.679577 36.421524) (layer Dwgs.User) (width 0.15))
