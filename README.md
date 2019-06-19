@@ -1,6 +1,6 @@
 # mulletpad
 
-![mulletpad](https://i.imgur.com/MHKo5f5.png)
+![mulletpad](https://i.imgur.com/v7lcpqY.png)
 
 A 17-key numpad with USB Type-C
 
