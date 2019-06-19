@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mulletpad-pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/mulletpad-pcb-rescue.lib)(options "")(descr ""))
+)
