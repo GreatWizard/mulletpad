@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:mulletpad-pcb-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -884,7 +884,6 @@ Wire Wire Line
 Wire Wire Line
 	4850 6000 4700 6000
 NoConn ~ 2550 5200
-NoConn ~ 4700 5400
 Text GLabel 1850 1600 0    50   Input ~ 0
 row0
 Text GLabel 1850 2150 0    50   Input ~ 0
@@ -1276,4 +1275,5 @@ Wire Wire Line
 	2250 5500 2300 5500
 Wire Wire Line
 	2500 5500 2550 5500
+NoConn ~ 4700 5400
 $EndSCHEMATC

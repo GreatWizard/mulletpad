@@ -802,10 +802,6 @@ Wire Wire Line
 Connection ~ 2600 2150
 Wire Wire Line
 	2600 2150 3300 2150
-Text Label 1850 1600 0    50   ~ 0
-row0
-Text Label 1850 2150 0    50   ~ 0
-row1
 Wire Wire Line
 	1900 2750 2600 2750
 Connection ~ 2600 2750
@@ -821,13 +817,9 @@ Wire Wire Line
 Wire Wire Line
 	1850 2750 1900 2750
 Connection ~ 1900 2750
-Text Label 1850 2750 0    50   ~ 0
-row2
 Wire Wire Line
 	1850 3350 1900 3350
 Connection ~ 1900 3350
-Text Label 1850 3350 0    50   ~ 0
-row3
 Wire Wire Line
 	1850 3900 1900 3900
 Connection ~ 3300 3900
@@ -857,16 +849,8 @@ Connection ~ 3950 2400
 Connection ~ 3950 3000
 Wire Wire Line
 	3250 2400 3250 3000
-Text Label 2900 1400 0    50   ~ 0
-col0
-Text Label 3250 1300 3    50   ~ 0
-col1
 Text Label 2550 1300 3    50   ~ 0
 col0
-Text Label 3700 1500 3    50   ~ 0
-col2
-Text Label 3950 1350 3    50   ~ 0
-col2
 Text Label 4650 1350 3    50   ~ 0
 col3
 Text GLabel 4700 6600 2    50   Input ~ 0
@@ -975,7 +959,7 @@ Wire Wire Line
 	4650 2400 4650 3550
 Connection ~ 4650 2400
 $Comp
-L Type-C:HRO-TYPE-C-31-M-12 USB1
+L mulletpad-pcb-rescue:HRO-TYPE-C-31-M-12-Type-C USB1
 U 1 1 5C883B59
 P 6250 5850
 F 0 "USB1" H 6081 6647 60  0000 C CNN
